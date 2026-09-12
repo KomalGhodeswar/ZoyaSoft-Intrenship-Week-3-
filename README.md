@@ -1,0 +1,1 @@
+Added the Week 3 EDA Fundamentals documentation covering EDA fundamentals, descriptive statistics, outlier and distribution analysis, Matplotlib and Seaborn visualizations, and choosing the right chart. The documentation includes the work performed, analysis results, visualizations, conclusions, and learning outcomes from Day 1 to Day 6.
